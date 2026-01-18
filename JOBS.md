@@ -15,6 +15,7 @@ CareerPath Pro is an AI-powered career guidance platform helping students move f
 - Have built at least one real backend with Node.js (Express or similar) and a DB (MongoDB/Postgres).
 - Can commit 15–30 hours/week for the next 3–6 months.
 - Like early‑stage chaos and want ownership instead of just tasks.
+- Location: Remote from anywhere (Turkey preferred).
 
  Compensation (founding engineer track)
 
